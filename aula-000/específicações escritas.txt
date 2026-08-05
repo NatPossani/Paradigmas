@@ -1,0 +1,4 @@
+Vaga real: https://br.linkedin.com/jobs/view/rust-software-developer-remote-at-yo-it-consulting-4444817211?position=1&pageNum=0&refId=fzccQccuGY5seke2%2BEb5Ng%3D%3D&trackingId=Ost6tJn51R%2BCBMRrq9PoDg%3D%3D
+Salário no Brasil: 9k - 16k mês
+Salário Global: US$ 60.000 -– US$ 100.000/ano
+Paradigma: Rust é uma linguagem multiparadigma. Isso significa que ela não se limita a um único modelo, combinando características de programação, funcional e orientada a objetos, permitindo escrever códigos seguros e de alta performance. No entanto, por sua sintaxe e controle de fluxo, ela possui uma forte influência do paradigma Imperativo/Procedural, o que faz com que muitos desenvolvedores a associem diretamente a esse estilo.
